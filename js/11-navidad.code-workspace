@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../metodo-date"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "11-navidad"
+	}
+}
