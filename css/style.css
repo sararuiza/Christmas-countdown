@@ -44,12 +44,13 @@ body{
     border-radius: 50%;
     background: #fff;
     transform: translateX(-50%);
+    z-index: -10;
 }
 
 .contenedor .circulo::before{
     content: "";
     position: absolute;
-    background: url(./img/media/santa.png);
+    background: url(../img/media/santa.png);
     inset: -200px;
     background-position: center;
     background-repeat: no-repeat;
