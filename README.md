@@ -1,15 +1,18 @@
-# Cuenta Regresiva para Navidad 🎄
+# Christmas Countdown 🎄
 
-![Descripción de la imagen](./img/media/cuenta-regresiva.png)
+![Image Description](./img/media/cuenta-regresiva.png)
 
-## Descripción
+## Description
 
-Este proyecto es una cuenta regresiva animada que muestra los días, horas, minutos y segundos restantes hasta la llegada de Navidad. Está construido utilizando HTML, CSS y JavaScript, con animaciones para hacer la experiencia visual más atractiva.
+This project is an animated countdown timer that displays the days, hours, minutes, and seconds remaining until Christmas. It is built using HTML, CSS, and JavaScript, with animations to enhance the visual experience.
 
-## Características
+## Features
 
-- **Cuenta regresiva precisa**: Muestra el tiempo restante en días, horas, minutos y segundos.
-- **Animaciones suaves**: Utiliza CSS para proporcionar animaciones visualmente atractivas.
-- **Interfaz amigable**: Diseño limpio y festivo para una experiencia de usuario agradable.
-- **Actualización en tiempo real**: El temporizador se actualiza automáticamente cada segundo.
+- **Accurate countdown**: Displays the remaining time in days, hours, minutes, and seconds.
+- **Smooth animations**: Uses CSS to provide visually appealing animations.
+- **User-friendly interface**: Clean and festive design for a pleasant user experience.
+- **Real-time updates**: The timer updates automatically every second.
+
+
+
 
